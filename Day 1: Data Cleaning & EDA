@@ -1,6 +1,6 @@
 
 ![image](https://github.com/user-attachments/assets/f3905caa-d815-477c-b50a-4677026bcad4)<br/>
-
+The above code is used to add the csv format file to the Google Colab for the further work to be done with it.
 
 # LEVEL 0 → 1
 - ssh bandit0@bandit.labs.overthewire.org -p 2220 <br/>
