@@ -1,1 +1,13 @@
 
+
+
+# LEVEL 0 → 1
+- ssh bandit0@bandit.labs.overthewire.org -p 2220 <br/>
+Password : bandit0 <br/>
+- ls <br/>
+- cat readme<br/>
+To view the contains of the file<br/>
+<br/>
+Password for the next level is obtained<br/>
+<br/>
+
