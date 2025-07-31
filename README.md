@@ -1,1 +1,1 @@
-"# ACM-30-Day-Challenge-Karunya" 
+ACM-30-Day-Challenge-Karunya
